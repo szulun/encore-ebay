@@ -1,2 +1,8 @@
-# encore-ebay
-AI-powered resale prototype for eBay: snap a photo, get a listing, three prices, and the right marketplace (Encore, Depop or eBay). Class strategy project.  Encore by eBay: a curated pre-loved fashion prototype where AI appraises a photo, writes the listing, prices it, and recommends where to sell.
+# Encore by eBay: prototype
+
+A prototype for a class strategy project: making eBay the #1 place for Gen Z pre-loved fashion.
+
+- **Live demo:** this repository’s GitHub Pages site (`index.html`). Outside Claude, the Sell page runs in demo mode with pre-generated sample appraisals.
+- **Prompt log:** [prompt-log.md](prompt-log.md)
+
+Product photos are from brand and retailer sources and are used for illustration only.
